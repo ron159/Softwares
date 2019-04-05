@@ -1,6 +1,6 @@
 # 记录一些正在使用的软件，多平台
 
-## Windows
+## Windows：
 
 ### 浏览器:
 
@@ -25,42 +25,50 @@
 - **Origin**
 - **Uplay**
 - **网易UU**
+- **Hearthstone**
+- **Logitech鼠标驱动**
 
 ### 代码：
 
 - **Visual studio code**
 - **Visual studio 2019**
-- **git**
+- **Git**
 - **python3**
-- **matlab**
+- **Matlab**
 
-### 文字处理：
+### 生产力工具：
 
 - **Office 365**
 - **Office tools plus负责管理**
-- **Typora（Markdown)**
+- **Typora**
 - **iSlide Tools**
+- ***DrawBoard PDF***
+- **Adobe acrobat DC**
+- **CAJViewer**
+- **Visio**
 
 ### 视频播放器：
 
 - **Potplayer**
 
-### 网盘管理：
+### 网盘：
 
 - **Onedirve**
 - **RaiDrive**
+- **rclone**
+- **Speedpan**
 
 ### 即时通信：
 
 - **Telegram**
-- **微信（商店版本）**
+- ***微信***
+- ***Unigram***
 
 ### 商店应用：
 
 - **网易云音乐**
-- **DrawBoard PDF**
 - **斗鱼**
-- **pollar**
+- **Pollar**
 
 ### 密码管理：
 
@@ -70,36 +78,54 @@
 
 - **V2rayN**
 - **Shadowsocks-libve**
+- **Sstap**
+- **Fiddler**
+- **Best Trace**
+- **MobaXterm**
+- **ZeroTier One**
 
-### 实用工具：（待细分）
+### 效率工具：
 
-- **VMware Workstation**
 - **Quicker**
 - **WGestures**
-- **ZeroTier One**
 - **Wox**
-- **火绒**
-- **CAJViewer**
-- **Best Trace**
-- **CCleaner**
-- **Everything** 
-- **Logitech鼠标驱动**
-- **Fiddler**
-- **Sandboxie**
-- **irreader**
-- **Hearthstone**
-- **MobaXterm**
-- **Adobe acrobat DC**
-- **CrystalDiskMark**
-- **CrystalDiskInfo**
 - **Fastcopy**
-- **sstap**
-- **scoop**
-- **visio**
+- **Everything** 
+
+### 软件&磁盘管理：
+
+- **CCleaner**
 - **Dism++**
-- **geek uninstaller**
-- **rclone**
+- **Scoop（PowerShell包管理器）**
+- **Geek Uninstaller**
 - **SpaceSniffer**
+- ***CrystalDiskMark***
+- **CrystalDiskInfo**
+- **DiskGenius**
+
+### 安全工具：
+
+- **火绒**
+- **Sandboxie**
+
+### 虚拟机：
+
+- **VMware Workstation**
+
+### 阅读软件：
+
+- **irreader**
+
+<!--注：斜体代表Windows商店版本-->
+
+------
+
+## Linux：
+
+### 下载相关：
+
+- **Aria2** 
+- **Aria2NG**
 
 
 
