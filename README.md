@@ -127,6 +127,16 @@
 - Aria2 
 - Aria2NG
 
+### Shell：
+
+- zsh
+- oh-my-zsh (插件见配置文件)
+
+### 效率工具：
+
+- easystroke
+
+## MacOS：
 
 
 
