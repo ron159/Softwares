@@ -1,140 +1,141 @@
 # 记录一些正在使用的软件，多平台
+    1.括号内斜体表示说明
+    2.粗体名字表示在多平台使用的软件
+    3.斜体名字优先选择表示Windows商店版本
 
 ## Windows：
 
 ### 浏览器:
 
-- [Chrome](<https://www.google.com/chrome/>)
-- FireFox
+- **[Chrome](<https://www.google.com/chrome/>)**
+- **[FireFox](<https://www.mozilla.org/en-US/firefox/new/>)**
 
 ### 压缩/解压缩：
 
-- Bandizip
-- 7-zip
+- [Bandizip](<https://en.bandisoft.com/bandizip/>)
+- [7-zip](<https://www.7-zip.org/download.html>)
 
 ### 下载软件：
 
-- FDM
+- **[FDM](<https://www.freedownloadmanager.org/zh/>)**
 - ~~Eagleget~~    *(宣称是外国软件，查询证书为国产，原因不明)*
-- Resilio Sync
+- [Resilio Sync](<https://www.resilio.com/individuals-sync/>)
 
 ### 游戏平台及工具：
 
-- 暴雪
-- Steam
-- Origin
-- Uplay
-- 网易UU
-- Hearthstone
-- Logitech鼠标驱动
+- [暴雪](<https://www.blizzardgames.cn/zh/>)
+- [Steam](<https://store.steampowered.com/about/>)
+- [Origin](<https://www.origin.com/sgp/en-us/store/download>)
+- [Uplay](<https://uplay.ubisoft.com/zh-cn>)
+- [网易UU](<https://uu.163.com/>)
+- [Logitech鼠标驱动](<https://support.logi.com/hc/zh-cn/articles/360025298053>)
 
 ### 代码：
 
-- Visual studio code
-- Visual studio 2019
-- Git
-- python3
-- Matlab
+- **[Visual studio code](<https://code.visualstudio.com/>)**
+- [Visual studio 2019](<https://visualstudio.microsoft.com/zh-hans/?rr=https%3A%2F%2Fwww.google.com%2F>)
+- **Git(<https://git-scm.com/>)**
+- **[Python3](<https://www.python.org/downloads/>)**
+- **[Matlab](<https://ww2.mathworks.cn/products/matlab.html>)**
 
 ### 生产力工具：
 
 - Office 365
-- Office tools plus负责管理
-- Typora
-- iSlide Tools
+- [Office tools plus](<https://otp.landian.vip/zh-cn/>)*(管理office套件)*
+- **[Typora](<https://typora.io/>)**
+- [iSlide Tools](<https://www.islide.cc/>)
 - *DrawBoard PDF*
-- Adobe acrobat DC
-- CAJViewer
-- Visio
+- [Adobe acrobat DC](<https://get.adobe.com/cn/reader/otherversions/>)
+- [CAJViewer](<http://cajviewer.cnki.net/>)
+- [Visio](<https://msdn.itellyou.cn/>)
 
-### 视频播放器：
+### 视频&音乐：
 
-- Potplayer
+- [Potplayer](<https://potplayer.daum.net/>)
+- *斗鱼*
+- *网易云音乐*
 
 ### 网盘：
 
 - Onedirve
-- RaiDrive
-- rclone
-- Speedpan
+- [RaiDrive](<https://www.raidrive.com/>)
+- [Rclone](<https://rclone.org/downloads/>)
+- ~~Speedpan~~*(已转Pandownload)*
+- [Pandownload](<https://pandownload.com/>)
 
 ### 即时通信：
 
-- Telegram
+- **[Telegram](<https://desktop.telegram.org/>)
+- *Unigram* *(Telegram第三方客户端，相较官方客户端增加了PC端的端到端加密聊天功能)*
 - *微信*
-- *Unigram*
-
-### 商店应用：
-
-- 网易云音乐
-- 斗鱼
-- Pollar
+- *QQ*
 
 ### 密码管理：
 
-- Enpass
+- ***Enpass***
 
 ### 网络工具：
 
-- V2rayN
-- Shadowsocks-libve
-- Sstap
-- Fiddler
-- Best Trace
-- MobaXterm
-- ZeroTier One
+- [V2rayN](<https://github.com/2dust/v2rayN>)
+- [Shadowsocks-libve](<https://shadowsocks.org/en/download/servers.html>)
+- ~~Sstap~~*(停止更新很长时间)*
+- [Fiddler](<https://www.telerik.com/fiddler>)
+- [Best Trace](<https://www.ipip.net/product/client.html>)
+- [MobaXterm](<https://mobaxterm.mobatek.net/>)
+- [ZeroTier One](<https://www.zerotier.com/>)
 
 ### 效率工具：
 
-- Quicker
-- WGestures
-- Wox
-- Fastcopy
-- Everything 
+- [Quicker](<https://getquicker.net/>)
+- [WGestures](<http://www.yingdev.com/projects/wgestures>)
+- [Wox](<http://www.wox.one/>)
+- [Fastcopy-M](<https://github.com/Mapaler/FastCopy-M>)*(基于原版的二次开发)*
+- [Everything] (<https://www.voidtools.com/zh-cn/>)
+- *Pollar*
 
 ### 软件&磁盘管理：
 
-- CCleaner
-- Dism++
+- [CCleaner](<https://www.ccleaner.com/>)
+- [Dism++](<https://www.chuyu.me/>)
 - Scoop（PowerShell包管理器）
-- Geek Uninstaller
-- SpaceSniffer
+- [Geek Uninstaller](<https://geekuninstaller.com/>)
+- [SpaceSniffer](<http://www.uderzo.it/main_products/space_sniffer/>)
 - *CrystalDiskMark*
-- CrystalDiskInfo
-- DiskGenius
+- [CrystalDiskInfo](<https://crystalmark.info/en/software/crystaldiskinfo/>)
+- [DiskGenius](<http://www.diskgenius.cn/>)
 
 ### 安全工具：
 
-- 火绒
-- Sandboxie
+- [火绒](<https://www.huorong.cn/>)
+- [Sandboxie](<https://www.sandboxie.com/>)
 
 ### 虚拟机：
 
-- VMware Workstation
+- [VMware Workstation Pro](<https://www.vmware.com/cn.html>)
 
 ### 阅读软件：
 
-- irreader
-
-<!--注：斜体代表Windows商店版本-->
+- **[irreader](<http://irreader.fatecore.com/>)**
 
 ------
 
 ## Linux：
-
+    此部分未特别注明均为包管理器安装
 ### 下载相关：
 
-- Aria2 
-- Aria2NG
+- [Aria2](<https://aria2.github.io/>)
+- [Aria2NG](<https://github.com/mayswind/AriaNg>)
+- Curl
+- Wget
 
 ### Shell：
 
-- zsh
-- oh-my-zsh (插件见配置文件)
+- [Zsh](<https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH>)
+- [Oh-my-zsh](<https://ohmyz.sh/>)*(插件见配置文件)*
 
 ### 效率工具：
 
-- easystroke
+- [Easystroke](<https://github.com/thjaeger/easystroke/wiki/BuildInstructions>)
 
 ## MacOS：
 
