@@ -9,6 +9,7 @@
 
 - **[Chrome](<https://www.google.com/chrome/>)**
 - **[FireFox](<https://www.mozilla.org/en-US/firefox/new/>)**
+- **[Microsoft Edge](<https://www.microsoftedgeinsider.com/zh-cn/download>)**
 
 ### 压缩/解压缩：
 
@@ -18,7 +19,7 @@
 ### 下载软件：
 
 - **[FDM](<https://www.freedownloadmanager.org/zh/>)**
-- ~~Eagleget~~    *(宣称是外国软件，查询证书为国产，原因不明)*
+- ~~Eagleget~~    *(官方宣称是外国软件，查询证书为国产，原因不明)*
 - [Resilio Sync](<https://www.resilio.com/individuals-sync/>)
 
 ### 游戏平台及工具：
@@ -27,10 +28,11 @@
 - [Steam](<https://store.steampowered.com/about/>)
 - [Origin](<https://www.origin.com/sgp/en-us/store/download>)
 - [Uplay](<https://uplay.ubisoft.com/zh-cn>)
+- [GOG Galaxy](<https://www.gog.com/>)
 - [网易UU](<https://uu.163.com/>)
 - [Logitech鼠标驱动](<https://support.logi.com/hc/zh-cn/articles/360025298053>)
 
-### 代码：
+### Code：
 
 - **[Visual studio code](<https://code.visualstudio.com/>)**
 - [Visual studio 2019](<https://visualstudio.microsoft.com/zh-hans/?rr=https%3A%2F%2Fwww.google.com%2F>)
@@ -48,12 +50,16 @@
 - [Adobe acrobat DC](<https://get.adobe.com/cn/reader/otherversions/>)
 - [CAJViewer](<http://cajviewer.cnki.net/>)
 - [Visio](<https://msdn.itellyou.cn/>)
+- *OneNote*
+- [Notion](<https://www.notion.so/>)
 
 ### 视频&音乐：
 
 - [Potplayer](<https://potplayer.daum.net/>)
 - *斗鱼*
 - *网易云音乐*
+- *Mp3tag* *(歌曲信息管理)*
+- *foobar2000*
 
 ### 网盘：
 
@@ -62,6 +68,7 @@
 - [Rclone](<https://rclone.org/downloads/>)
 - ~~Speedpan~~*(已转Pandownload)*
 - [Pandownload](<https://pandownload.com/>)
+- [Goodsync](<https://www.goodsync.com/>)
 
 ### 即时通信：
 
@@ -76,9 +83,10 @@
 
 ### 网络工具：
 
-- [V2rayN](<https://github.com/2dust/v2rayN>)
+- ~~[V2rayN](<https://github.com/2dust/v2rayN>)~~*(已转CFW，支持更加灵活的规则和配置文件管理)*
+- [Clash for Windows](<https://github.com/Fndroid/clash_for_windows_pkg/releases>)
 - [Shadowsocks-libve](<https://shadowsocks.org/en/download/servers.html>)
-- ~~Sstap~~*(停止更新很长时间)*
+- ~~Sstap~~ *(停止更新很长时间)*
 - [Fiddler](<https://www.telerik.com/fiddler>)
 - [Best Trace](<https://www.ipip.net/product/client.html>)
 - [MobaXterm](<https://mobaxterm.mobatek.net/>)
@@ -97,7 +105,7 @@
 
 - [CCleaner](<https://www.ccleaner.com/>)
 - [Dism++](<https://www.chuyu.me/>)
-- Scoop（PowerShell包管理器）
+- [Scoop](<https://scoop.sh/>) *(PowerShell包管理器)*
 - [Geek Uninstaller](<https://geekuninstaller.com/>)
 - [SpaceSniffer](<http://www.uderzo.it/main_products/space_sniffer/>)
 - *CrystalDiskMark*
@@ -120,7 +128,7 @@
 ------
 
 ## Linux：
-    此部分未特别注明均为包管理器安装
+    此部分未特别注明均使用包管理器安装
 ### 下载相关：
 
 - [Aria2](<https://aria2.github.io/>)
