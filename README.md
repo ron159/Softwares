@@ -1,7 +1,7 @@
 # 记录一些正在使用的软件，多平台
     1.括号内斜体表示说明
     2.粗体名字表示在多平台使用的软件
-    3.斜体名字优先选择表示Windows商店版本
+    3.斜体名字优先选择表示商店版本
 
 ## Windows：
 
@@ -98,7 +98,7 @@
 - [WGestures](<http://www.yingdev.com/projects/wgestures>)
 - [Wox](<http://www.wox.one/>)
 - [Fastcopy-M](<https://github.com/Mapaler/FastCopy-M>)*(基于原版的二次开发)*
-- [Everything] (<https://www.voidtools.com/zh-cn/>)
+- [Everything](<https://www.voidtools.com/zh-cn/>)
 - *Pollar*
 
 ### 软件&磁盘管理：
@@ -121,7 +121,7 @@
 
 - [VMware Workstation Pro](<https://www.vmware.com/cn.html>)
 
-### 阅读软件：
+### 阅读：
 
 - **[irreader](<http://irreader.fatecore.com/>)**
 
@@ -145,8 +145,24 @@
 
 - [Easystroke](<https://github.com/thjaeger/easystroke/wiki/BuildInstructions>)
 
+### 阅读：
+
+- *Liferea*
+
+### 邮件：
+
+- [Thunderbird](<https://www.thunderbird.net/zh-CN/>)
+
 ## MacOS：
 
+### 系统工具：
+  
+- [Better and Better](<https://better365.cn/>)
+- [iStat Menus](<https://bjango.com/mac/istatmenus/>)
+  
+### 网络工具:
+
+- [ClashX](<https://github.com/yichengchen/clashX>)
 
 
 
