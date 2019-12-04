@@ -21,7 +21,7 @@
 - **[FDM](<https://www.freedownloadmanager.org/zh/>)**
 - ~~Eagleget~~    *(官方宣称是外国软件，查询证书为国产，原因不明)*
 - [Resilio Sync](<https://www.resilio.com/individuals-sync/>)
-- IDM
+- [IDM](https://www.internetdownloadmanager.com/)
 
 ### 游戏平台及工具：
 
@@ -67,27 +67,27 @@
 - Onedirve
 - [RaiDrive](<https://www.raidrive.com/>)
 - **[Rclone](<https://rclone.org/downloads/>)**
-- ~~Speedpan~~*(已转Pandownload)*
+- ~~Speedpan~~ *(已转Pandownload)*
 - [Pandownload](<https://pandownload.com/>)
 - [Goodsync](<https://www.goodsync.com/>)
 
 ### 即时通信：
 
-- **[Telegram](<https://desktop.telegram.org/>)
+- **[Telegram](<https://desktop.telegram.org/>)**
 - *Unigram* *(Telegram第三方客户端，相较官方客户端增加了PC端的端到端加密聊天功能)*
 - *微信*
 - *QQ*
 
 ### 密码管理：
 
-- ***Enpass***
+- ***[Enpass](https://www.enpass.io/)***
 
 ### 网络工具：
 
 - ~~[V2rayN](<https://github.com/2dust/v2rayN>)~~*(已转CFW，支持更加灵活的规则和配置文件管理)*
 - [Clash for Windows](<https://github.com/Fndroid/clash_for_windows_pkg/releases>)
 - [Shadowsocks-libve](<https://shadowsocks.org/en/download/servers.html>)
-- ~~Sstap~~ *(停止更新很长时间)*
+- ~~Sstap~~ *(停止更新)*
 - [Fiddler](<https://www.telerik.com/fiddler>)
 - [Best Trace](<https://www.ipip.net/product/client.html>)
 - [MobaXterm](<https://mobaxterm.mobatek.net/>)
@@ -126,7 +126,7 @@
 
 - **[irreader](<http://irreader.fatecore.com/>)**
 
-------
+----------------------------------------------------------------
 
 ## Linux：
     此部分未特别注明均使用包管理器安装
@@ -144,15 +144,23 @@
 - Navi
 - screenfetch
 - Htop
+- **[termius](https://termius.com/)**
+
+### Code:
+
+- [pycharm-professional](https://www.jetbrains.com/pycharm/)
+- [Goland](https://www.jetbrains.com/go/)
+- [Go](https://golang.org/)
 
 ### 效率工具：
 
 - [Easystroke](<https://github.com/thjaeger/easystroke/wiki/BuildInstructions>)
 - **[Bcompare](https://www.scootersoftware.com/download.php)**
+- **[Utools](https://u.tools/)**
 
 ### 阅读：
 
-- *Liferea*
+- [Liferea](https://lzone.de/liferea/)
 
 ### 邮件：
 
@@ -160,19 +168,22 @@
 
 ### 系统工具：
 
-- [BleachBit]
-- [Redshift]
-- [Deepin-wine]
+- BleachBit
+- Redshift
+- Deepin-wine
+- [Docker](https://hub.docker.com/)
 
 ### 网络工具：
 
-- [Remmina]*(远程桌面)*
-- [Wireshark]
+- [Remmina](https://remmina.org/) *(远程桌面)*
+- **[Wireshark](https://www.wireshark.org/)**
 
 ### 影音：
 
-- [Vlc]
-- [Petal] 
+- [Vlc](https://www.videolan.org/vlc/index.html)
+- [Petal](https://github.com/shakrmedia/petal)
+
+----------------------------------------------------------------
 
 ## MacOS：
 
