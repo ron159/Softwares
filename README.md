@@ -13,7 +13,7 @@
 
 ### 压缩/解压缩：
 
-- [Bandizip](<https://en.bandisoft.com/bandizip/>)
+- [Bandizip](<https://en.bandisoft.com/bandizip/>)*(7.0版本已增加付费)*
 - [7-zip](<https://www.7-zip.org/download.html>)
 
 ### 下载软件：
@@ -21,6 +21,7 @@
 - **[FDM](<https://www.freedownloadmanager.org/zh/>)**
 - ~~Eagleget~~    *(官方宣称是外国软件，查询证书为国产，原因不明)*
 - [Resilio Sync](<https://www.resilio.com/individuals-sync/>)
+- IDM
 
 ### 游戏平台及工具：
 
@@ -36,7 +37,7 @@
 
 - **[Visual studio code](<https://code.visualstudio.com/>)**
 - [Visual studio 2019](<https://visualstudio.microsoft.com/zh-hans/?rr=https%3A%2F%2Fwww.google.com%2F>)
-- **Git(<https://git-scm.com/>)**
+- **[Git](<https://git-scm.com/>)**
 - **[Python3](<https://www.python.org/downloads/>)**
 - **[Matlab](<https://ww2.mathworks.cn/products/matlab.html>)**
 
@@ -51,7 +52,7 @@
 - [CAJViewer](<http://cajviewer.cnki.net/>)
 - [Visio](<https://msdn.itellyou.cn/>)
 - *OneNote*
-- [Notion](<https://www.notion.so/>)
+- **[Notion](<https://www.notion.so/>)**
 
 ### 视频&音乐：
 
@@ -65,7 +66,7 @@
 
 - Onedirve
 - [RaiDrive](<https://www.raidrive.com/>)
-- [Rclone](<https://rclone.org/downloads/>)
+- **[Rclone](<https://rclone.org/downloads/>)**
 - ~~Speedpan~~*(已转Pandownload)*
 - [Pandownload](<https://pandownload.com/>)
 - [Goodsync](<https://www.goodsync.com/>)
@@ -140,10 +141,14 @@
 
 - [Zsh](<https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH>)
 - [Oh-my-zsh](<https://ohmyz.sh/>)*(插件见配置文件)*
+- Navi
+- screenfetch
+- Htop
 
 ### 效率工具：
 
 - [Easystroke](<https://github.com/thjaeger/easystroke/wiki/BuildInstructions>)
+- **[Bcompare](https://www.scootersoftware.com/download.php)**
 
 ### 阅读：
 
@@ -152,6 +157,22 @@
 ### 邮件：
 
 - [Thunderbird](<https://www.thunderbird.net/zh-CN/>)
+
+### 系统工具：
+
+- [BleachBit]
+- [Redshift]
+- [Deepin-wine]
+
+### 网络工具：
+
+- [Remmina]*(远程桌面)*
+- [Wireshark]
+
+### 影音：
+
+- [Vlc]
+- [Petal] 
 
 ## MacOS：
 
