@@ -155,7 +155,7 @@
 ### 效率工具：
 
 - [Easystroke](<https://github.com/thjaeger/easystroke/wiki/BuildInstructions>)
-- ~~[Bcompare]~~(https://www.scootersoftware.com/download.php)*(已用Meld代替)*
+- ~~[Bcompare]~~(https://www.scootersoftware.com/download.php) *(已用Meld代替)*
 - **[Meld](https://meldmerge.org/)** *(跨平台开源文件/文件夹对比软件)*
 - **[Utools](https://u.tools/)**
 
