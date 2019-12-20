@@ -2,6 +2,7 @@
     1.括号内斜体表示说明
     2.粗体名字表示在多平台使用的软件
     3.斜体名字优先选择表示商店版本
+    4.对于跨平台且在多个平台同时使用的软件，将其记录于最先使用的平台目录下
 
 ## Windows：
 
@@ -15,11 +16,12 @@
 
 - [Bandizip](<https://en.bandisoft.com/bandizip/>)*(7.0版本已增加付费)*
 - [7-zip](<https://www.7-zip.org/download.html>)
+- [Peazip](<https://www.peazip.org/>)
 
 ### 下载软件：
 
 - **[FDM](<https://www.freedownloadmanager.org/zh/>)**
-- ~~Eagleget~~    *(官方宣称是外国软件，查询证书为国产，原因不明)*
+- ~~Eagleget~~*(官方宣称是外国软件，查询证书为国产，原因不明)*
 - [Resilio Sync](<https://www.resilio.com/individuals-sync/>)
 - [IDM](https://www.internetdownloadmanager.com/)
 
@@ -44,7 +46,7 @@
 ### 生产力工具：
 
 - Office 365
-- [Office tools plus](<https://otp.landian.vip/zh-cn/>)*(管理office套件)*
+- [Office tools plus](<https://otp.landian.vip/zh-cn/>)*(office套件管理工具)*
 - **[Typora](<https://typora.io/>)**
 - [iSlide Tools](<https://www.islide.cc/>)
 - *DrawBoard PDF*
@@ -129,39 +131,42 @@
 ----------------------------------------------------------------
 
 ## Linux：
-    此部分未特别注明均使用包管理器安装
+
+    未特别注明均使用包管理器安装
+
 ### 下载相关：
 
 - [Aria2](<https://aria2.github.io/>)
 - [Aria2NG](<https://github.com/mayswind/AriaNg>)
-- Curl
-- Wget
+- [Curl](<https://curl.haxx.se/>)
+- [Wget](<https://www.gnu.org/software/wget/>)
 
 ### Shell：
 
 - [Zsh](<https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH>)
 - [Oh-my-zsh](<https://ohmyz.sh/>)*(插件见配置文件)*
-- Navi
-- screenfetch
-- Htop
-- **[termius](https://termius.com/)**
+- [Navi](<https://github.com/denisidoro/navi>)
+- [Screenfetch](<https://github.com/KittyKatt/screenFetch>)
+- [Htop](<https://hisham.hm/htop/>)
+- **[termius](<https://termius.com/>)**
 
 ### Code:
 
-- [pycharm-professional](https://www.jetbrains.com/pycharm/)
-- [Goland](https://www.jetbrains.com/go/)
-- [Go](https://golang.org/)
+- [pycharm-professional](<https://www.jetbrains.com/pycharm/>)
+- [Goland](<https://www.jetbrains.com/go/>)
+- [Go](<https://golang.org/>)
 
 ### 效率工具：
 
 - [Easystroke](<https://github.com/thjaeger/easystroke/wiki/BuildInstructions>)
 - ~~[Bcompare](<https://www.scootersoftware.com/download.php>)~~*(已用Meld代替)*
-- **[Meld](https://meldmerge.org/)** *(跨平台开源文件/文件夹对比软件)*
-- **[Utools](https://u.tools/)**
+- **[Meld](<https://meldmerge.org/>)** *(跨平台开源文件/文件夹对比软件)*
+- **[Utools](<https://u.tools/>)**
 
 ### 阅读：
 
-- [Liferea](https://lzone.de/liferea/)
+- [Liferea](<https://lzone.de/liferea/>)
+- **[FeedBro](<https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa?hl=en>)** *(Chrome插件)*
 
 ### 邮件：
 
@@ -169,20 +174,20 @@
 
 ### 系统工具：
 
-- BleachBit
-- Redshift
+- [BleachBit](<https://www.bleachbit.org/>)
+- [Redshift](<https://github.com/jonls/redshift>)
 - Deepin-wine
-- [Docker](https://hub.docker.com/)
+- [Docker](<https://hub.docker.com/>)
 
 ### 网络工具：
 
-- [Remmina](https://remmina.org/) *(远程桌面)*
-- **[Wireshark](https://www.wireshark.org/)**
+- [Remmina](<https://remmina.org/>) *(远程桌面)*
+- **[Wireshark](<https://www.wireshark.org/>)**
 
 ### 影音：
 
-- [Vlc](https://www.videolan.org/vlc/index.html)
-- [Petal](https://github.com/shakrmedia/petal)
+- [Vlc](<https://www.videolan.org/vlc/index.html>)
+- [Petal](<https://github.com/shakrmedia/petal>)
 
 ----------------------------------------------------------------
 
@@ -196,6 +201,4 @@
 ### 网络工具:
 
 - [ClashX](<https://github.com/yichengchen/clashX>)
-
-
 
