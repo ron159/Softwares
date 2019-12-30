@@ -1,10 +1,8 @@
 # 记录一些正在使用的软件，多平台
-    1.括号内斜体表示说明
-    2.粗体名字表示在多平台使用的软件
-    3.斜体名字优先选择表示商店版本
-    4.对于跨平台且在多个平台同时使用的软件，将其记录于最先使用的平台目录下
+    1.粗体名字表示在多平台使用的软件
+    2.斜体名字优先选择表示商店版本(Windows & Mac os)
+    3.
 
-## Windows：
 
 ### 浏览器:
 
@@ -14,20 +12,24 @@
 
 ### 压缩/解压缩：
 
-- [Bandizip](<https://en.bandisoft.com/bandizip/>)*(7.0版本已增加付费)*
-- [7-zip](<https://www.7-zip.org/download.html>)
+- [Bandizip](<https://en.bandisoft.com/bandizip/>)*(7.0版本已增加付费,暂时停留于6.25)*
+- **[7-zip](<https://www.7-zip.org/download.html>)**
 - [Peazip](<https://www.peazip.org/>)
 
 ### 下载软件：
 
 - **[FDM](<https://www.freedownloadmanager.org/zh/>)**
 - ~~Eagleget~~*(官方宣称是外国软件，查询证书为国产，原因不明)*
-- [Resilio Sync](<https://www.resilio.com/individuals-sync/>)
+- **[Resilio Sync](<https://www.resilio.com/individuals-sync/>)**
 - [IDM](https://www.internetdownloadmanager.com/)
+- [Aria2](<https://aria2.github.io/>)
+- [Aria2NG](<https://github.com/mayswind/AriaNg>)
+- [Curl](<https://curl.haxx.se/>)
+- [Wget](<https://www.gnu.org/software/wget/>)
 
 ### 游戏平台及工具：
 
-- [暴雪](<https://www.blizzardgames.cn/zh/>)
+- [战网](<https://www.blizzardgames.cn/zh/>)
 - [Steam](<https://store.steampowered.com/about/>)
 - [Origin](<https://www.origin.com/sgp/en-us/store/download>)
 - [Uplay](<https://uplay.ubisoft.com/zh-cn>)
@@ -42,8 +44,11 @@
 - **[Git](<https://git-scm.com/>)**
 - **[Python3](<https://www.python.org/downloads/>)**
 - **[Matlab](<https://ww2.mathworks.cn/products/matlab.html>)**
+- [Pycharm-professional](<https://www.jetbrains.com/pycharm/>)
+- [Goland](<https://www.jetbrains.com/go/>)
+- [Go](<https://golang.org/>)
 
-### 生产力工具：
+### 文档工具：
 
 - Office 365
 - [Office tools plus](<https://otp.landian.vip/zh-cn/>)*(office套件管理工具)*
@@ -63,20 +68,22 @@
 - *网易云音乐*
 - *Mp3tag* *(歌曲信息管理)*
 - *foobar2000*
+- [VLC](<https://www.videolan.org/vlc/index.html>)
+- [Petal](<https://github.com/shakrmedia/petal>)
 
-### 网盘：
+### 网盘工具：
 
-- Onedirve
+- Onedrive
 - [RaiDrive](<https://www.raidrive.com/>)
 - **[Rclone](<https://rclone.org/downloads/>)**
 - ~~Speedpan~~ *(已转Pandownload)*
-- [Pandownload](<https://pandownload.com/>)
+- ~~[Pandownload](<https://pandownload.com/>)~~ *(已失效，尽量避免使用百度网盘)*
 - [Goodsync](<https://www.goodsync.com/>)
 
 ### 即时通信：
 
 - **[Telegram](<https://desktop.telegram.org/>)**
-- *Unigram* *(Telegram第三方客户端，相较官方客户端增加了PC端的端到端加密聊天功能)*
+- ~~*Unigram* *(Telegram第三方客户端，相较官方客户端增加了PC端的端到端加密聊天功能)*~~
 - *微信*
 - *QQ*
 
@@ -86,27 +93,37 @@
 
 ### 网络工具：
 
-- ~~[V2rayN](<https://github.com/2dust/v2rayN>)~~*(已转CFW，支持更加灵活的规则和配置文件管理)*
-- [Clash for Windows](<https://github.com/Fndroid/clash_for_windows_pkg/releases>)
-- ~~[Shadowsocks-libve](<https://shadowsocks.org/en/download/servers.html>)~~*(全面转向vmess协议)*
+- ~~[Shadowsocks-libev](<https://shadowsocks.org/en/download/servers.html>)~~*(转向vmess协议)*
 - ~~Sstap~~ *(停止更新)*
+- ~~[V2rayN](<https://github.com/2dust/v2rayN>)~~*(已转Clash，支持更加灵活的规则和配置文件管理)*
+- [Clash](<https://github.com/Dreamacro/clash>)
+- [Clash for Windows](<https://github.com/Fndroid/clash_for_windows_pkg/releases>)
+- [ClashX](<https://github.com/yichengchen/clashX>)
 - [Fiddler](<https://www.telerik.com/fiddler>)
 - [Best Trace](<https://www.ipip.net/product/client.html>)
-- [MobaXterm](<https://mobaxterm.mobatek.net/>)
-- [ZeroTier One](<https://www.zerotier.com/>)
+- ~~[MobaXterm](<https://mobaxterm.mobatek.net/>)~~*(已转Termius,多端同步)*
+- **[Termius](<https://termius.com/>)**
+- **[ZeroTier One](<https://www.zerotier.com/>)**
+- [Remmina](<https://remmina.org/>) *(Linux下远程桌面)*
+- **[Wireshark](<https://www.wireshark.org/>)**
+
 
 ### 效率工具：
 
-- [Quicker](<https://getquicker.net/>)
-- [WGestures](<http://www.yingdev.com/projects/wgestures>)
-- [Wox](<http://www.wox.one/>)
+- ~~[Quicker](<https://getquicker.net/>)~~*(已转utools)*
+- ~~[Wox](<http://www.wox.one/>)~~*(已转utools)*
+- [WGestures](<http://www.yingdev.com/projects/wgestures>)*(Windows鼠标手势)*
 - [Fastcopy-M](<https://github.com/Mapaler/FastCopy-M>)*(基于原版的二次开发)*
 - [Everything](<https://www.voidtools.com/zh-cn/>)
 - *Pollar*
+- [Easystroke](<https://github.com/thjaeger/easystroke/wiki/BuildInstructions>)*(Linux鼠标手势)*
+- ~~[Bcompare](<https://www.scootersoftware.com/download.php>)~~*(已用Meld代替)*
+- **[Meld](<https://meldmerge.org/>)** *(跨平台开源文件/文件夹对比软件)*
+- **[utools](<https://u.tools/>)**
 
 ### 软件&磁盘管理：
 
-- [CCleaner](<https://www.ccleaner.com/>)
+- ~~[CCleaner](<https://www.ccleaner.com/>)~~
 - [Dism++](<https://www.chuyu.me/>)
 - [Scoop](<https://scoop.sh/>) *(PowerShell包管理器)*
 - [Geek Uninstaller](<https://geekuninstaller.com/>)
@@ -126,20 +143,9 @@
 
 ### 阅读：
 
-- **[irreader](<http://irreader.fatecore.com/>)**
-
-----------------------------------------------------------------
-
-## Linux：
-
-    未特别注明均使用包管理器安装
-
-### 下载相关：
-
-- [Aria2](<https://aria2.github.io/>)
-- [Aria2NG](<https://github.com/mayswind/AriaNg>)
-- [Curl](<https://curl.haxx.se/>)
-- [Wget](<https://www.gnu.org/software/wget/>)
+- ~~**[irreader](<http://irreader.fatecore.com/>)**~~
+- [Liferea](<https://lzone.de/liferea/>)
+- **[FeedBro](<https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa?hl=en>)** *(Chrome插件)*
 
 ### Shell：
 
@@ -148,29 +154,6 @@
 - [Navi](<https://github.com/denisidoro/navi>)
 - [Screenfetch](<https://github.com/KittyKatt/screenFetch>)
 - [Htop](<https://hisham.hm/htop/>)
-- **[termius](<https://termius.com/>)**
-
-### Code:
-
-- [pycharm-professional](<https://www.jetbrains.com/pycharm/>)
-- [Goland](<https://www.jetbrains.com/go/>)
-- [Go](<https://golang.org/>)
-
-### 效率工具：
-
-- [Easystroke](<https://github.com/thjaeger/easystroke/wiki/BuildInstructions>)
-- ~~[Bcompare](<https://www.scootersoftware.com/download.php>)~~*(已用Meld代替)*
-- **[Meld](<https://meldmerge.org/>)** *(跨平台开源文件/文件夹对比软件)*
-- **[Utools](<https://u.tools/>)**
-
-### 阅读：
-
-- [Liferea](<https://lzone.de/liferea/>)
-- **[FeedBro](<https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa?hl=en>)** *(Chrome插件)*
-
-### 邮件：
-
-- [Thunderbird](<https://www.thunderbird.net/zh-CN/>)
 
 ### 系统工具：
 
@@ -178,27 +161,14 @@
 - [Redshift](<https://github.com/jonls/redshift>)
 - Deepin-wine
 - [Docker](<https://hub.docker.com/>)
-
-### 网络工具：
-
-- [Remmina](<https://remmina.org/>) *(远程桌面)*
-- **[Wireshark](<https://www.wireshark.org/>)**
-
-### 影音：
-
-- [Vlc](<https://www.videolan.org/vlc/index.html>)
-- [Petal](<https://github.com/shakrmedia/petal>)
-
-----------------------------------------------------------------
-
-## MacOS：
-
-### 系统工具：
-  
+- [TimeShift](<https://github.com/teejee2008/timeshift>)*(系统备份)*
 - [Better and Better](<https://better365.cn/>)
 - [iStat Menus](<https://bjango.com/mac/istatmenus/>)
   
-### 网络工具:
+### 邮件：
 
-- [ClashX](<https://github.com/yichengchen/clashX>)
+- [Thunderbird](<https://www.thunderbird.net/zh-CN/>)
+
+
+  
 
